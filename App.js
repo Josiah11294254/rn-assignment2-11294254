@@ -21,5 +21,12 @@ const styles = StyleSheet.create({
     justifyContent: "center",
   },
 
+  name: {
+    color: "#1b81e2",
+    fontSize: 24,
+    fontWeight: "bold",
+    fontFamily: "monospace",
+  },
+ 
   
 });
