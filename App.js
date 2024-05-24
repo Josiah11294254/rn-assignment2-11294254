@@ -27,6 +27,11 @@ const styles = StyleSheet.create({
     fontWeight: "bold",
     fontFamily: "monospace",
   },
- 
+  text: {
+    color: "#fafafa",
+    fontSize: 24,
+    fontWeight: "bold",
+    fontFamily: "monospace",
+  },
   
 });
